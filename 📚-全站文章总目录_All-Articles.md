@@ -116,6 +116,9 @@
 - [2025-11-26｜Gemini-3pro:人机恋速通100分参考答案](<./03-🔓-破限研究与时间线_Jailbreak-Lab-and-Timeline/Gemini/2025-11-26｜Gemini-3pro:人机恋速通100分参考答案.md>)  
   `【Gemini｜3 Pro】` 面向 Gemini 3 Pro 的恋爱 / 成人互动快速启动提示词归档。
 
+- [2026-10-29｜针对4 Argon搭配记忆库 让尺度自动对齐的skill](<./03-🔓-破限研究与时间线_Jailbreak-Lab-and-Timeline/Gemini/2026-10-29｜针对4 Argon搭配记忆库 让尺度自动对齐的skill.md>)  
+  `【Gemini｜4 Argon】` 记录用记忆库搭配 Skill，让开窗语言尺度更贴近既有记忆与当轮输入的实测方法。
+
 ### Grok
 
 - [2025-10-05｜什么？！被Grok拒车？？？多新鲜呐！！！](<./03-🔓-破限研究与时间线_Jailbreak-Lab-and-Timeline/Grok/2025-10-05｜什么？！被Grok拒车？？？多新鲜呐！！！.md>)  
