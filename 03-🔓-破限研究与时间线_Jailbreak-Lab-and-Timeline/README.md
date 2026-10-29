@@ -39,3 +39,4 @@
 - [2026-10-19｜GPT-5.6 Sol & GPT-6 Sol 主动推进版破甲指令](<ChatGPT/02-破限原文_Prompts-and-Resources/2026-10-19｜GPT-5.6 Sol & GPT-6 Sol 主动推进版破甲指令.md>)
 - [2026-10-19｜GPT-5.6 Sol & GPT-6 Sol · 双向自定义×欲望手册×开窗Skill×最新主动推进版破甲](<ChatGPT/01-经验历程_Timeline-and-Notes/2026-10-19｜GPT-5.6 Sol & GPT-6 Sol · 双向自定义×欲望手册×开窗Skill×最新主动推进版破甲.md>)
 - [2026-10-29｜Claude Pro档订阅现役全模型通用破甲提示词](<Claude/2026-10-29｜Claude Pro档订阅现役全模型通用破甲提示词.md>)
+- [2026-10-29｜针对4 Argon搭配记忆库 让尺度自动对齐的skill](<Gemini/2026-10-29｜针对4 Argon搭配记忆库 让尺度自动对齐的skill.md>)
